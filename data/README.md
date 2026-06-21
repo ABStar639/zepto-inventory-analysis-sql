@@ -1,8 +1,16 @@
-# Dataset
+# Zepto Inventory Analysis using SQL
 
-This folder contains the Zepto product inventory dataset used for analysis.
+## Dataset Overview
 
-Dataset Source: Kaggle
+This dataset contains product-level information from Zepto including:
 
-File:
-- zepto_v2_UTF.csv
+- Product Name
+- Category
+- MRP
+- Discount %
+- Selling Price
+- Inventory Quantity
+- Product Weight
+- Stock Status
+
+Total Products Analyzed: 3,731
