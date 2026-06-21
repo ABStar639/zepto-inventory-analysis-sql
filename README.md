@@ -88,6 +88,33 @@ Classified products into inventory tiers using SQL window functions.
 Measured inventory concentration across product categories.
 
 ---
+## Dashboard
+
+The Tableau dashboard provides a visual overview of:
+
+* Revenue Potential by Category
+* Average Discount by Category
+* Inventory Distribution by Category
+* Out-of-Stock Products by Category
+
+![Dashboard](screenshots/dashboard.png)
+
+### Interactive Dashboard
+
+Explore the live interactive dashboard on Tableau Public:
+
+**🔗 Tableau Public Dashboard:**
+https://public.tableau.com/views/SQL_Zepto_Project/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+### Dashboard Highlights
+
+* Identified categories with the highest revenue potential based on inventory availability and discounted selling prices.
+* Compared average discount percentages across categories to evaluate pricing strategies.
+* Analyzed inventory distribution to identify categories with high stock concentration.
+* Highlighted categories with the highest number of out-of-stock products, indicating potential revenue leakage.
+* Enabled interactive category-level filtering for deeper business analysis.
+
+---
 
 ## Key Insights
 
