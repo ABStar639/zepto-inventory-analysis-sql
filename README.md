@@ -10,15 +10,17 @@ The analysis simulates real-world retail analytics use cases and demonstrates th
 
 ## Business Objective
 
-Retail businesses need to understand:
+Quick-commerce platforms such as Zepto manage thousands of products across multiple categories while balancing inventory availability, pricing competitiveness, and profitability. Poor inventory planning can lead to stock-outs and lost sales, while ineffective discounting strategies can negatively impact margins.
 
-- Which products generate the highest revenue potential
-- Which categories offer the largest discounts
-- Which high-value products are out of stock
-- How inventory is distributed across categories
-- Which products provide the best value to customers
+This project leverages SQL to analyze Zepto's product inventory and pricing data with the objective of:
 
-This project answers these questions using SQL-based analysis.
+- Identifying high revenue-potential products and categories
+- Evaluating discount effectiveness across categories
+- Detecting premium products that are currently out of stock
+- Assessing inventory distribution and stock availability
+- Identifying products that offer the best value to customers
+
+The insights generated can support data-driven decisions related to inventory management, pricing strategy, and revenue optimization.
 
 ---
 
