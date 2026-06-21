@@ -168,4 +168,4 @@ https://public.tableau.com/views/SQL_Zepto_Project/Dashboard1?:language=en-GB&:s
 
 Abhishek Bhuniya
 
-Business Analyst | Research Analyst | Aspiring Consultant
+Business Analyst 
